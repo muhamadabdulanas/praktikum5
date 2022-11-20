@@ -59,31 +59,31 @@ Untuk mengubah element ke 4 sampai dengan terakhir, menggunakan namavariable [3:
 
 ![gambar](piks13.png)
  
-3. Tambah elemen list
-- Ambil 2 bagian dari list pertama (A) dan jadikan list ke 2 (B)
-Untuk mengambil 2 bagian element dari list A ke list B menggunakan syntax berikut
+## 3. Tambah elemen list
+### - Ambil 2 bagian dari list pertama (A) dan jadikan list ke 2 (B)
+#### Untuk mengambil 2 bagian element dari list A ke list B menggunakan syntax berikut
 
 ![gambar](piks14.png)
 
-output
+### output
 
 ![gambar](piks15.png)
 
-- Tambah list B dengan nilai string
-Untuk menambahkan list B dengan nilai string dapat menggunakan method append
+## - Tambah list B dengan nilai string
+#### Untuk menambahkan list B dengan nilai string dapat menggunakan method append
 
 ![gambar](piks16.png)
 
-output
+### output
 
 ![gambar](piks17.png)
 
-- Tambah list B dengan 3 nilai
-Untuk menambahkan list B dengan 3 nilai dapat menggunakan method extend
+## - Tambah list B dengan 3 nilai
+### Untuk menambahkan list B dengan 3 nilai dapat menggunakan method extend
 
 ![gambar](piks18.png)
 
-output
+### output
 
 ![gambar](piks19.png)
 
@@ -95,6 +95,12 @@ output
 ## - Buat flowchart dan penjelasan programnya pada README.md.
 ## - Commit dan push repository ke github
 Program
+
+![gambar](piks23.png)
+
+### output
+
+![gambar](piks22.png)
 
 
 
